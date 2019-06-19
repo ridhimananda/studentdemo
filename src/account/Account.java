@@ -61,6 +61,7 @@ public class Account {
      * @return the user
      */
     public String getUser() {
+        
         return user;
     }
     

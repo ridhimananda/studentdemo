@@ -30,5 +30,7 @@ public class AccountTester {
              
         System.out.println("The balance is: "+a.getBalance());  
         System.out.println("The InterestRate per month is "+a.getInterestRate());
+        
+        System.out.println("Account Created" ); 
     }
 }
